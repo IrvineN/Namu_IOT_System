@@ -6,3 +6,5 @@ Our Solution is a plant monitoring system by uses a probe to provide key metrics
 
 # Hardware Solution
 The proposed hardware solution comprises a compact device, powered by ESP32 with seamless Wi-Fi and BLE connectivity, enabling remote accessibility. It further integrates multiple probes and sensors onto a single board, streamlining data collection and monitoring, making it an efficient tool for a variety of applications.
+
+![image](https://github.com/IrvineN/Namu_IOT_System/assets/88442775/1593629d-a405-454a-bdf1-05f6e9588cc0)
